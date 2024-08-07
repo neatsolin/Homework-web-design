@@ -1,0 +1,51 @@
+body{
+     h3,p,button{
+    margin:  5px 0px 0px 20px; 
+
+    }
+}
+.container{
+    justify-content: center;
+    background: pink;
+    width: 20%; 
+    height: 70vh;
+     margin-left: 40%;
+} 
+.order-button {
+    background-color: #255d4a;
+    margin-left: 20px ;
+    width: 200PX;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 30px;
+    margin-top: 15px;
+}
+img{
+    text-align: center;
+    width: 100%;
+    background-size: cover;
+}
+.card1{
+    border: solid;
+    background-color: white;
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: -220px;
+    left: 200px;
+    margin-top: 10px;
+    margin-left: 5px;
+    border: none;
+}
+.price{
+    color: purple;
+    margin-top: 5px;   
+}   
+.text{
+    position:  relative;
+    bottom: 19px;
+
+   
+}
